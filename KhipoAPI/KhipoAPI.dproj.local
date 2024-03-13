@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/12 21:06:37.000.718,=C:\Users\Administrator\Documents\Projetos\Unit1.pas</Transaction>
+    <Transaction>2024/03/12 21:06:45.000.079,=C:\Users\Administrator\Documents\Projetos\Unit2.pas</Transaction>
+    <Transaction>2024/03/12 21:06:58.000.879,C:\Users\Administrator\Documents\Projetos\Project1.dproj=C:\Users\Administrator\Documents\Projetos\Khipo.dproj</Transaction>
+    <Transaction>2024/03/12 21:07:11.000.437,C:\Users\Administrator\Documents\Projetos\Khipo.dproj=C:\Users\Administrator\Documents\Projetos\KhipoAPI.dproj</Transaction>
+    <Transaction>2024/03/12 21:08:53.000.587,C:\Users\Administrator\Documents\Projetos\Unit2.pas=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\uProduto.WebModule.pas</Transaction>
+    <Transaction>2024/03/12 21:08:53.000.587,C:\Users\Administrator\Documents\Projetos\Unit2.dfm=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\uProduto.WebModule.dfm</Transaction>
+    <Transaction>2024/03/12 21:10:00.000.219,C:\Users\Administrator\Documents\Projetos\Unit1.pas=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\src\Controller\KhipoAPI.Produto.Controller.pas</Transaction>
+    <Transaction>2024/03/12 21:10:17.000.482,=C:\Users\Administrator\Documents\Projetos\Unit1.pas</Transaction>
+    <Transaction>2024/03/12 21:10:32.000.900,C:\Users\Administrator\Documents\Projetos\Unit1.pas=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\src\Model\KhipoAPI.Produto.Model.pas</Transaction>
+    <Transaction>2024/03/12 21:19:11.000.165,C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\uProduto.WebModule.dfm=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\KhipoAPI.WebModules.dfm</Transaction>
+    <Transaction>2024/03/12 21:19:11.000.165,C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\uProduto.WebModule.pas=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\KhipoAPI.WebModules.pas</Transaction>
+    <Transaction>2024/03/12 21:34:37.000.152,C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\KhipoAPI.WebModules.pas=</Transaction>
+    <Transaction>2024/03/12 21:35:03.000.688,=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\src\WebModule\KhipoAPI.WebModules.pas</Transaction>
+    <Transaction>2024/03/12 21:38:58.000.133,C:\Users\Administrator\Documents\Projetos\KhipoAPI.dproj=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\KhipoAPI.dproj</Transaction>
+    <Transaction>2024/03/13 10:26:14.841,=C:\Users\Administrator\Documents\Projetos\Khipo\KhipoAPI\src\Controller\KhipoAPI.RoleAuthHandler.Controller.pas</Transaction>
+  </Transactions>
+</BorlandProject>
